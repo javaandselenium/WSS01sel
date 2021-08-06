@@ -50,6 +50,7 @@ public class Test4 {
 		}
 		
 		System.out.println("************after sorting ************");
+		
 		Collections.sort(a);
 		
 		for(Object b1:a) {
@@ -58,7 +59,7 @@ public class Test4 {
 
 
 
-driver.close();
+         driver.close();
 		
 		
 	}
